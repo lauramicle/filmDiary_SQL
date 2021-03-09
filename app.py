@@ -10,7 +10,7 @@ menu = """Please select one of the following options:
 6) Exit.
 
 Your selection: """
-welcome = "Welcome to the watchlist app!"
+welcome = "Welcome to the watchlist app!!"
 
 
 print(welcome)
